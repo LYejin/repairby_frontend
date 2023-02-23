@@ -79,7 +79,7 @@ const RepairRegionChoice5 = ({
           <br /> 지역을 선택해 주세요
         </Question>
         <InputWrapper>
-          <InputTitle>파손 부분 설명 및 요청사항</InputTitle>
+          <InputTitle>수리 서비스를 받을 지역</InputTitle>
           <Input
             onClick={onChangeOpenPost}
             type="text"
